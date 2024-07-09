@@ -1,4 +1,4 @@
-# Football Players Analytics
+# Football Player Analytics
 
 ## Problem Statement
 The global football industry is facing a critical challenge in effectively managing and analyzing vast amounts of player data to make informed decisions. We aim to address this issue by leveraging Tableau to provide a detailed analysis of FIFA player statistics. We can focus on identifying key trends and insights, such as the countries with the highest number of players, the evolution of player participation over time, the distribution of player skills and attributes and other details.
